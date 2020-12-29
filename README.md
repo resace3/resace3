@@ -1,5 +1,6 @@
 # Yo!!!! 👋👋👋👋👋👋👋👋👋
 
+![Alt Text](https://github.com/resace3/resace3/blob/main/giphy.gif)
 
 - 🔭 I’m currently working on using SEQFISH Technology to identify gene expression in images.
 
