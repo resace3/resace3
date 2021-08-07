@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning about Computational Biology and all the problems to be solved with it.
 - 🤔 You will probably find me in the park writing code.
-- 💬 Ask me about how I like working with Big Data!!!!!!!!!!!
 - 📫 Reach me at resace3@gmail.com
 - ⚡ Fun fact: Published my First Research Paper at 15, Finished my Bachelors at 19
 
